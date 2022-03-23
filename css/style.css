@@ -97,12 +97,12 @@
          .navbar {
           height: 50px;
           width: 100%;
-          background-color: #1177ca;
+          background-color: white;
           position: relative;
         }
       
       .navbar > .nav-links {
-          font-size: 18px;
+          font-size: 30px;
           display: inline;
           float: right;
       
@@ -110,7 +110,7 @@
         .navbar > .nav-links > ul li a{
           color: #fff;
           line-height: 40px;
-          font-size: 18px;
+          font-size: 30px;
           display: block;
           padding: 0 8px;
           text-decoration: none;
