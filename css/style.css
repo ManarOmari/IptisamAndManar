@@ -97,24 +97,33 @@
          .navbar {
             height: 63px;
           width: 100%;
-          background-color: #1177ca;
+          background-color: white;
           position: relative;
           position: fixed;
         }
       
       .navbar > .nav-links {
-          font-size: 18px;
+          font-size: 30px;
           display: inline;
           float: right;
       
         }
         .navbar > .nav-links > ul li a{
+<<<<<<< HEAD
             color: #fff;
             line-height: 40px;
             font-size: 25px;
             display: block;
             padding: 0 8px;
             text-decoration: none;
+=======
+          color: #fff;
+          line-height: 40px;
+          font-size: 30px;
+          display: block;
+          padding: 0 8px;
+          text-decoration: none;
+>>>>>>> fb638b44d6ca9a67b775af1f4a2e5f64593cad05
       
         }
         .navbar > .nav-links > ul{
