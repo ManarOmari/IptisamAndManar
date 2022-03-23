@@ -137,3 +137,12 @@
             background-color: #0b65af;
             border-radius: 5px;
         }
+
+        #footer{
+            font-weight: 300;
+            display: flex;
+            justify-content: space-evenly;
+            padding: 1rem;
+            background: #b6bdbf;
+            border-top: 4px solid var(--main-red);
+        }
