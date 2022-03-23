@@ -96,7 +96,7 @@
       }
       
          .navbar {
-          height: 50px;
+            height: 75px;
           width: 100%;
           background-color: #1177ca;
           
@@ -139,6 +139,7 @@
         }
 
         #footer{
+            height: 75px;
             font-weight: 300;
             display: flex;
             justify-content: space-evenly;
