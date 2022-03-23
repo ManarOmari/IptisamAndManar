@@ -95,10 +95,11 @@
       }
       
          .navbar {
-          height: 50px;
+            height: 63px;
           width: 100%;
           background-color: #1177ca;
           position: relative;
+          position: fixed;
         }
       
       .navbar > .nav-links {
@@ -108,12 +109,12 @@
       
         }
         .navbar > .nav-links > ul li a{
-          color: #fff;
-          line-height: 40px;
-          font-size: 18px;
-          display: block;
-          padding: 0 8px;
-          text-decoration: none;
+            color: #fff;
+            line-height: 40px;
+            font-size: 25px;
+            display: block;
+            padding: 0 8px;
+            text-decoration: none;
       
         }
         .navbar > .nav-links > ul{
